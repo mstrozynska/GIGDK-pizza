@@ -24,7 +24,7 @@ Składniki: ciasto do pizzy, sos pomidorowy, mozzarella, szynka, pieczarki, karc
 Przygotowanie: Na cienkim cieście rozsmaruj sos pomidorowy. Posyp pokrojoną mozzarellą. Dodaj pokrojoną szynkę, pieczarki, karczochy i czarne oliwki. Piecz w gorącym piecu przez około 90 sekund. Podawaj i rozkoszuj się połączeniem wyrazistych smaków.
 
 
-## 5. Quattro Formaggi:
+## 5. Quattro Formaggi (VEGE):
 
 Składniki: ciasto do pizzy, sos pomidorowy, mozzarella, gorgonzola, pecorino, parmezan.
 Przygotowanie:
