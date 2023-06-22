@@ -2,11 +2,13 @@
 
 Pizza Neapolitana:
 
-1. Margherita: sos pomidorowy, mozzarella, świeży bazylia. 25
-2. Marinara: sos pomidorowy, czosnek, oregano, oliwa z oliwek. 27 
-3. Napoletana: sos pomidorowy, mozzarella di bufala, anchois, czarne oliwki. 29
-4. Capricciosa: sos pomidorowy, mozzarella, szynka, pieczarki, karczochy, czarne oliwki. 29
-5. Quattro Formaggi: sos pomidorowy, mozzarella, gorgonzola, pecorino, parmezan. 33
+| Pizza             | Składniki                                      | Cena |
+| ----------------- | ---------------------------------------------- | ---- |
+| Margherita        | sos pomidorowy, mozzarella, świeży bazylia     | 25   |
+| Marinara          | sos pomidorowy, czosnek, oregano, oliwa z oliwek | 27   |
+| Napoletana        | sos pomidorowy, mozzarella di bufala, anchois, czarne oliwki | 29   |
+| Capricciosa       | sos pomidorowy, mozzarella, szynka, pieczarki, karczochy, czarne oliwki | 29   |
+| Quattro Formaggi  | sos pomidorowy, mozzarella, gorgonzola, pecorino, parmezan | 33   |
 
 
 Pizza Specjalna:
