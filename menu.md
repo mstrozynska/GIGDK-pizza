@@ -41,7 +41,7 @@ Przekąski:
 
 Sałatki VEGE:
 
-| Sałatka Caprese         | Składniki                                   | Cena |
+| Sałatka                 | Składniki                                   | Cena |
 | ----------------------- | ------------------------------------------- | ---- |
 | Caprese z pomidorami    | pomidory, mozzarella, świeża bazylia        | 18   |
 | Sałatka z awokado        | awokado, pomidory, cebula czerwona, rukola   | 20   |
