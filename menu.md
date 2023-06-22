@@ -56,7 +56,7 @@ Napoje:
 | Wyselekcjonowane wina włoskie (czerwone, białe, różowe) | 18   |
 
 Sosy:
-![sosy](https://therecipecritic.com/wp-content/uploads/2021/09/homemadepizzasauce-1.jpg)
+![sosy](https://therecipecritic.com/wp-content/uploads/2021/09/homemadepizzasauce-1.jpg){width=250px}
 | Sos             | Składniki                                      | Cena |
 | --------------- | ---------------------------------------------- | ---- |
 | Sos pomidorowy  | pomidory, oliwa z oliwek, czosnek, oregano, sól, cukier | 10   |
