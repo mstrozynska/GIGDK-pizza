@@ -21,9 +21,12 @@ Pizza Wegetariańska:
 
 Pizza Specjalna:
 
-1. Diavola: sos pomidorowy, pikantna salami, mozzarella, czerwona cebula, papryczki chili. 34
-2. Prosciutto e Rucola: sos pomidorowy, mozzarella, szynka parmeńska, rukola, płatki parmezanu. 34
-3. Funghi: sos pomidorowy, mozzarella, pieczarki, szpinak, ser pleśniowy. 30
+| Pizza                | Składniki                                                         | Cena |
+| -------------------- | ----------------------------------------------------------------- | ---- |
+| Diavola              | sos pomidorowy, pikantna salami, mozzarella, czerwona cebula, papryczki chili | 34   |
+| Prosciutto e Rucola  | sos pomidorowy, mozzarella, szynka parmeńska, rukola, płatki parmezanu | 34   |
+| Funghi               | sos pomidorowy, mozzarella, pieczarki, szpinak, ser pleśniowy      | 30   |
+
 
 
 Przekąski:
