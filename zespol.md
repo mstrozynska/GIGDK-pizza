@@ -1,4 +1,6 @@
-# Zespół
+# Nasza załoga
+**Nasz pięcioosobowy zespół, złożony z utalentowanych profesjonalistów, pracuje harmonijnie razem, aby zapewnić wyjątkowe doświadczenie kulinarne naszym gościomLuigi - Szef Kuchni:
+Luigi to utalentowany szef kuchni, który posiada bogate doświadczenie w przygotowywaniu autentycznej pizzy neapolitańskiej. Jest pasjonatem włoskiej kuchni i doskonale zna sekrety idealnego cienkiego ciasta i harmonijnych kombinacji smakowych. Jego umiejętności kulinarne oraz zdolność do inspirowania innych członków zespołu sprawiają, że każda pizza, która opuszcza kuchnię, jest dziełem sztuki.**
 
 ## Luigi - Szef Kuchni:
 Luigi to utalentowany szef kuchni, który posiada bogate doświadczenie w przygotowywaniu autentycznej pizzy neapolitańskiej. Jest pasjonatem włoskiej kuchni i doskonale zna sekrety idealnego cienkiego ciasta i harmonijnych kombinacji smakowych. Jego umiejętności kulinarne oraz zdolność do inspirowania innych członków zespołu sprawiają, że każda pizza, która opuszcza kuchnię, jest dziełem sztuki.
@@ -15,5 +17,3 @@ Sofia to utalentowana baristka, która dba o to, aby nasi goście mogli cieszyć
 ## Marco - Menedżer:
 Marco to zaangażowany menedżer, który sprawuje nadzór nad działaniem całej pizzerii. Jest odpowiedzialny za zapewnienie płynności operacyjnej, doskonałej obsługi klienta i ogólnego funkcjonowania restauracji. Jego organizacyjne umiejętności, umiejętność zarządzania zespołem i uwaga na detale przyczyniają się do sukcesu naszej pizzerii.
 
-**Nasz pięcioosobowy zespół, złożony z utalentowanych profesjonalistów, pracuje harmonijnie razem, aby zapewnić wyjątkowe doświadczenie kulinarne naszym gościomLuigi - Szef Kuchni:
-Luigi to utalentowany szef kuchni, który posiada bogate doświadczenie w przygotowywaniu autentycznej pizzy neapolitańskiej. Jest pasjonatem włoskiej kuchni i doskonale zna sekrety idealnego cienkiego ciasta i harmonijnych kombinacji smakowych. Jego umiejętności kulinarne oraz zdolność do inspirowania innych członków zespołu sprawiają, że każda pizza, która opuszcza kuchnię, jest dziełem sztuki.**
