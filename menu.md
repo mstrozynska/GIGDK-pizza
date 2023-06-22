@@ -31,7 +31,7 @@ Pizza Specjalna:
 Przekąski:
 
 
-| Pozycja                          | Opis                                                | Cena |
+| Przysta                          | Opis                                                | Cena |
 | -------------------------------- | --------------------------------------------------- | ---- |
 | Bruschetta z pomidorami i bazylią | Delikatne pieczywo z kawałkami pomidorów i bazylią   | 14   |
 | Carpaccio z wołowiny             | Cienko pokrojone plastry wołowiny z sosem i przyprawami | 14   |
