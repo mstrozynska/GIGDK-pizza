@@ -1,6 +1,6 @@
 # Dane kontaktowe
 
-tel. 1234567891111312312312321
+tel. 123456789
 
 ul. Lipowa 12
 62-020 Gniezno
