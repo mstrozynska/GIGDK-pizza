@@ -10,6 +10,15 @@ Pizza Neapolitana:
 | Capricciosa       | sos pomidorowy, mozzarella, szynka, pieczarki, karczochy, czarne oliwki | 29   |
 | Quattro Formaggi  | sos pomidorowy, mozzarella, gorgonzola, pecorino, parmezan | 33   |
 
+Pizza Wegetariańska:
+
+| Pizza             | Składniki                                      | Cena |
+| ----------------- | ---------------------------------------------- | ---- |
+| Vegetariana       | sos pomidorowy, mozzarella, pieczarki, papryka, cebula, oliwki, oregano | 28   |
+| Quattro Stagioni   | sos pomidorowy, mozzarella, szpinak, pieczarki, karczochy, oliwki | 30   |
+| Funghi            | sos pomidorowy, mozzarella, grzyby, cebula, natka pietruszki | 26   |
+
+W powyższej tabeli przedstawione są trzy pozycje wegetariańskie, wraz z nazwą pizzy, składnikami oraz ceną.
 
 Pizza Specjalna:
 
@@ -30,3 +39,5 @@ Napoje:
 1. Woda mineralna gazowana/niegazowana. 8
 2. Włoskie soki owocowe. 10
 3. Wyselekcjonowane wina włoskie (czerwone, białe, różowe). 18
+
+
