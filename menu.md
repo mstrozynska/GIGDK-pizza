@@ -56,7 +56,7 @@ Napoje:
 | Wyselekcjonowane wina włoskie (czerwone, białe, różowe) | 18   |
 
 Sosy:
-<img src="[zdjecie](https://therecipecritic.com/wp-content/uploads/2021/09/homemadepizzasauce-1.jpg)" alt="drawing" width="200"/>
+![Opis obrazka](https://therecipecritic.com/wp-content/uploads/2021/09/homemadepizzasauce-1.jpg){ width="300px" height="200px" }
 
 
 | Sos             | Składniki                                      | Cena |
