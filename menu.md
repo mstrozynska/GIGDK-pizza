@@ -31,9 +31,13 @@ Pizza Specjalna:
 
 Przekąski:
 
-1. Bruschetta z pomidorami i bazylią. 14
-2. Carpaccio z wołowiny. 14
-3. Sałatka Caprese: pomidory, mozzarella, świeża bazylia, oliwa z oliwek. 20
+
+| Pozycja                          | Opis                                                | Cena |
+| -------------------------------- | --------------------------------------------------- | ---- |
+| Bruschetta z pomidorami i bazylią | Delikatne pieczywo z kawałkami pomidorów i bazylią   | 14   |
+| Carpaccio z wołowiny             | Cienko pokrojone plastry wołowiny z sosem i przyprawami | 14   |
+| Sałatka Caprese                  | Pomidory, mozzarella, świeża bazylia, oliwa z oliwek | 20   |
+
 
 Sałatki VEGE:
 
