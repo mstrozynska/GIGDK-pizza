@@ -16,4 +16,3 @@ Sofia to utalentowana baristka, która dba o to, aby nasi goście mogli cieszyć
 
 ## Marco - Menedżer:
 Marco to zaangażowany menedżer, który sprawuje nadzór nad działaniem całej pizzerii. Jest odpowiedzialny za zapewnienie płynności operacyjnej, doskonałej obsługi klienta i ogólnego funkcjonowania restauracji. Jego organizacyjne umiejętności, umiejętność zarządzania zespołem i uwaga na detale przyczyniają się do sukcesu naszej pizzerii.
-
