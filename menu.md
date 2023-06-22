@@ -18,7 +18,6 @@ Pizza Wegetariańska:
 | Quattro Stagioni   | sos pomidorowy, mozzarella, szpinak, pieczarki, karczochy, oliwki | 30   |
 | Funghi            | sos pomidorowy, mozzarella, grzyby, cebula, natka pietruszki | 26   |
 
-W powyższej tabeli przedstawione są trzy pozycje wegetariańskie, wraz z nazwą pizzy, składnikami oraz ceną.
 
 Pizza Specjalna:
 
