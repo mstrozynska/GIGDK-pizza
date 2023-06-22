@@ -16,3 +16,9 @@ Sofia to utalentowana baristka, która dba o to, aby nasi goście mogli cieszyć
 
 ## Marco - Menedżer:
 Marco to zaangażowany menedżer, który sprawuje nadzór nad działaniem całej pizzerii. Jest odpowiedzialny za zapewnienie płynności operacyjnej, doskonałej obsługi klienta i ogólnego funkcjonowania restauracji. Jego organizacyjne umiejętności, umiejętność zarządzania zespołem i uwaga na detale przyczyniają się do sukcesu naszej pizzerii.
+
+## Anna - Pizzaiola:
+Anna to utalentowana pizzaiola, która z pasją tworzy autentyczną pizzę neapolitańską. Jej szybkie i precyzyjne ruchy pozwala jej formować idealnie cienkie ciasto i równomiernie rozprowadzać składniki. Jej pizze są zawsze perfekcyjnie wypieczone i pełne wyrazistego smaku.
+
+## Mateusz - Kelner:
+Mateusz to uśmiechnięty i komunikatywny kelner, który zawsze dba o zadowolenie naszych gości. Jego profesjonalne podejście i znajomość menu pozwalają mu udzielać doskonałych rekomendacji oraz zapewniać szybką i efektywną obsługę. Mateusz jest zawsze gotów odpowiedzieć na pytania i stworzyć przyjemną atmosferę w restauracji.
