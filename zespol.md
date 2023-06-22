@@ -1,5 +1,5 @@
 # Nasza załoga
-**Nasz pięcioosobowy zespół, złożony z utalentowanych profesjonalistów, pracuje harmonijnie razem, aby zapewnić wyjątkowe doświadczenie kulinarne naszym gościomLuigi - Szef Kuchni:
+**Nasz siedmioosobowy zespół, złożony z utalentowanych profesjonalistów, pracuje harmonijnie razem, aby zapewnić wyjątkowe doświadczenie kulinarne naszym gościomLuigi - Szef Kuchni:
 Luigi to utalentowany szef kuchni, który posiada bogate doświadczenie w przygotowywaniu autentycznej pizzy neapolitańskiej. Jest pasjonatem włoskiej kuchni i doskonale zna sekrety idealnego cienkiego ciasta i harmonijnych kombinacji smakowych. Jego umiejętności kulinarne oraz zdolność do inspirowania innych członków zespołu sprawiają, że każda pizza, która opuszcza kuchnię, jest dziełem sztuki.**
 
 ## Luigi - Szef Kuchni:
