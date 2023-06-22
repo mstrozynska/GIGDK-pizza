@@ -21,12 +21,11 @@ Pizza Wegetariańska:
 
 Pizza Specjalna:
 
-| Pizza                | Składniki                                                         | Cena |
+| Pizza Specjalna      | Składniki                                                         | Cena |
 | -------------------- | ----------------------------------------------------------------- | ---- |
 | Diavola              | sos pomidorowy, pikantna salami, mozzarella, czerwona cebula, papryczki chili | 34   |
 | Prosciutto e Rucola  | sos pomidorowy, mozzarella, szynka parmeńska, rukola, płatki parmezanu | 34   |
 | Funghi               | sos pomidorowy, mozzarella, pieczarki, szpinak, ser pleśniowy      | 30   |
-
 
 
 Przekąski:
@@ -50,8 +49,8 @@ Sałatki VEGE:
 
 Napoje:
 
-1. Woda mineralna gazowana/niegazowana. 8
-2. Włoskie soki owocowe. 10
-3. Wyselekcjonowane wina włoskie (czerwone, białe, różowe). 18
-
-
+| Napój                                              | Cena |
+| -------------------------------------------------- | ---- |
+| Woda mineralna gazowana/niegazowana                 | 8    |
+| Włoskie soki owocowe                                | 10   |
+| Wyselekcjonowane wina włoskie (czerwone, białe, różowe) | 18   |
