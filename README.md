@@ -1,4 +1,4 @@
 # GIGDK-pizza
 Projekt zaliczeniowy z GIGDK
 
-tutaj main
+![Śmieszny kot](https://i.imgur.com/ABCD123.jpg)
