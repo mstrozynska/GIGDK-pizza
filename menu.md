@@ -33,6 +33,14 @@ Przekąski:
 2. Carpaccio z wołowiny. 14
 3. Sałatka Caprese: pomidory, mozzarella, świeża bazylia, oliwa z oliwek. 20
 
+Sałatki VEGE:
+
+| Sałatka Caprese         | Składniki                                   | Cena |
+| ----------------------- | ------------------------------------------- | ---- |
+| Caprese z pomidorami    | pomidory, mozzarella, świeża bazylia        | 18   |
+| Sałatka z awokado        | awokado, pomidory, cebula czerwona, rukola   | 20   |
+| Sałatka grecka          | pomidory, ogórki, czerwona cebula, oliwki, feta, oregano | 22   |
+
 
 Napoje:
 
