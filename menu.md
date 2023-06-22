@@ -54,3 +54,14 @@ Napoje:
 | Woda mineralna gazowana/niegazowana                 | 8    |
 | Włoskie soki owocowe                                | 10   |
 | Wyselekcjonowane wina włoskie (czerwone, białe, różowe) | 18   |
+
+Sosy:
+
+| Sos             | Składniki                                      | Cena |
+| --------------- | ---------------------------------------------- | ---- |
+| Sos pomidorowy  | pomidory, oliwa z oliwek, czosnek, oregano, sól, cukier | 10   |
+| Sos bazyliowy   | świeży bazylia, czosnek, orzechy piniowe, oliwa z oliwek, parmezan | 12   |
+| Sos pesto       | świeża bazylia, czosnek, orzechy piniowe, parmezan, oliwa z oliwek | 15   |
+| Sos arrabbiata  | pomidory, cebula, czosnek, chili, oliwa z oliwek, sól, pieprz | 11   |
+| Sos carbonara   | śmietana, boczek, jajka, parmezan, czosnek, pieprz | 14   |
+
